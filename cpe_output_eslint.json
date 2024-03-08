@@ -1,0 +1,687 @@
+{
+    "cpe:2.3:a:eslint-detailed-reporter_project:eslint-detailed-reporter:0.9.0:*:*:*:*:node.js:*:*": {
+        "CVE-2022-4942": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.0.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.0.2:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.1.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.1.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.1.2:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.1.3:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.1.4:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.1.5:*:*:*:*:node.js:*:*": {
+        "CVE-2021-26275": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-77"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.0.0:*:*:*:*:node.js:*:*": {
+        "CVE-2019-15657": {
+            "cvssVersion": "3.0",
+            "baseScore": 9.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.1.0:*:*:*:*:node.js:*:*": {
+        "CVE-2019-15657": {
+            "cvssVersion": "3.0",
+            "baseScore": 9.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.2.0:*:*:*:*:node.js:*:*": {
+        "CVE-2019-15657": {
+            "cvssVersion": "3.0",
+            "baseScore": 9.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.3.0:*:*:*:*:node.js:*:*": {
+        "CVE-2019-15657": {
+            "cvssVersion": "3.0",
+            "baseScore": 9.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.3.1:*:*:*:*:node.js:*:*": {
+        "CVE-2019-15657": {
+            "cvssVersion": "3.0",
+            "baseScore": 9.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.4.0:*:*:*:*:node.js:*:*": {
+        "CVE-2019-15657": {
+            "cvssVersion": "3.0",
+            "baseScore": 9.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.4.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:eslint-utils_project:eslint-utils:1.4.2:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:-:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2021-27081": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.0.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.0.3:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.0.4:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.0.5:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.0.7:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.0.8:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.1.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.3:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.4:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.5:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.6:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.7:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.8:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.9:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.10:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.2.11:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.3.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.3.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.3.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.3:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.4:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.5:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.6:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.7:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.8:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.9:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.10:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.11:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.12:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.13:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.4.14:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.5.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.6.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.6.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.7.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.8.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.8.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.8.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.9.0:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.9.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:1.9.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.4:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.10:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.11:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.12:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.13:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.14:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.15:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.1:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.2:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.3:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.4:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.5:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.6:*:*:*:*:*:*:*": {
+        "CVE-2020-1481": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.1.7:*:*:*:*:*:*:*": "No vulnerabilities returned"
+}
