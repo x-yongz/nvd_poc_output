@@ -1,0 +1,4699 @@
+{
+    "cpe:2.3:a:\\$0.99_kindle_books_project:\\$0.99_kindle_books:6:*:*:*:*:android:*:*": {
+        "CVE-2014-6750": {
+            "cvssVersion": "2.0",
+            "baseScore": 5.4,
+            "cwes": [
+                "CWE-310"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@nubosoftware\\/node-static_project:\\@nubosoftware\\/node-static:-:*:*:*:*:node.js:*:*": {
+        "CVE-2023-26111": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22",
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:-:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.1.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.2.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.2.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.2.2:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.2:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.3:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.4:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.5:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.6:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.7:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.8:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.9:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.10:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.11:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.12:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.13:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.17:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.18:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.19:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.20:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.3.21:*:*:*:*:node.js:*:*": {
+        "CVE-2021-21412": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-78"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\@thi.ng\\/egf_project:\\@thi.ng\\/egf:0.4.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:\\[gwa\\]_autoresponder_project:\\[gwa\\]_autoresponder:-:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-44779": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-89",
+                "CWE-89"
+            ]
+        }
+    },
+    "cpe:2.3:a:\\[gwa\\]_autoresponder_project:\\[gwa\\]_autoresponder:2.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-44779": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-89",
+                "CWE-89"
+            ]
+        }
+    },
+    "cpe:2.3:a:01generator:pireospay:-:*:*:*:*:prestashop:*:*": {
+        "CVE-2023-45375": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-89"
+            ]
+        }
+    },
+    "cpe:2.3:a:01generator:pireospay:1.7.9:*:*:*:*:prestashop:*:*": {
+        "CVE-2023-45375": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-89"
+            ]
+        }
+    },
+    "cpe:2.3:a:01generator:pireospay:1.7.10:*:*:*:*:prestashop:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01org:tpm2.0-tools:1.1.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:-:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:3.0.0.3:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:3.0.0.4:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:3.1.0:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:3.2.0:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:3.2.1:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01_artikelsystem:2021-09-15:*:*:*:*:01acp:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:01-scripts:01acp:-:*:*:*:*:*:*:*": {
+        "CVE-2021-4309": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:01-scripts:01acp:1.2.0.0:*:*:*:*:*:*:*": {
+        "CVE-2021-4309": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:01-scripts:01acp:1.2.1:*:*:*:*:*:*:*": {
+        "CVE-2021-4309": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:01-scripts:01acp:1.3.0:*:*:*:*:*:*:*": {
+        "CVE-2021-4309": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:01-scripts:01acp:1.3.1:*:*:*:*:*:*:*": {
+        "CVE-2021-4309": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:01-scripts:01acp:2021-09-15:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:07fly:customer_relationship_management:-:*:*:*:*:*:*:*": {
+        "CVE-2023-3058": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.4,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:07fly:customer_relationship_management:1.2.0:*:*:*:*:*:*:*": {
+        "CVE-2023-3058": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.4,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:07fly:customer_relationship_management:2.0:*:*:*:*:*:*:*": {
+        "CVE-2023-5020": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-89"
+            ]
+        }
+    },
+    "cpe:2.3:a:0branch:boron:0.1.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.4:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.6:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.8:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.10:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.10.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.1.12:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.4:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.4.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.6:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.8:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.8.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.10:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.2.12:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.3.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:0.3.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:2.0.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:2.0.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:2.0.4:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:2.0.6:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0branch:boron:2.0.8:*:*:*:*:*:*:*": {
+        "CVE-2023-40294": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.5,
+            "cwes": [
+                "CWE-787"
+            ]
+        },
+        "CVE-2023-40295": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-787"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.2:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.3:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.4:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.5:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.6:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.7:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.8:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.9:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.10:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.11:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.12:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.13:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.14:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.15:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.16:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.17:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.18:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.19:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.20:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.21:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.22:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.23:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.24:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.25:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.26:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.27:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.28:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.29:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.30:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.1.31:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.2.0:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.0:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.1:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.2:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.3:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.4:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.5:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.6:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.7:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.8:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.9:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.10:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.11:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.12:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.13:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.14:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.15:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.16:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.17:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.18:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.19:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.20:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.21:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.22:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.23:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.24:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.25:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.26:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.27:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.28:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.29:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.30:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.31:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.32:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.33:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.34:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.35:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.36:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.37:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.38:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.39:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.40:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.41:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.42:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.43:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.44:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.45:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.46:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.47:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.48:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.49:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.50:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.51:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.52:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.53:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.54:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.55:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.56:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.57:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.58:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.59:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.3.60:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.0:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.1:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.2:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.3:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.4:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.5:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.6:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.7:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.8:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.9:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.10:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.11:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.12:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.13:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.14:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.15:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.16:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.17:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.18:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.19:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.20:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.21:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.22:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.23:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.24:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.25:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.26:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.4.27:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.5.0:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.0:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.1:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.2:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.3:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.4:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.5:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.6:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.7:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.8:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.9:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.10:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.6.11:*:*:*:*:*:*:*": {
+        "CVE-2023-33252": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        }
+    },
+    "cpe:2.3:a:0kims:snarkjs:0.7.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:0mk_shortener_project:0mk_shortener:-:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-2933": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": []
+        },
+        "CVE-2022-45361": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:0mk_shortener_project:0mk_shortener:0.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-2933": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": []
+        },
+        "CVE-2022-45361": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:-:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.1.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.1.1:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.1.2:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.1.3:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.2.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.3.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.3.1:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.4.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.5.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.6.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.7.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.8.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.9.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.10.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.10.1:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.11.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.12.0:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.12.1:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.12.2:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.12.3:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.12.4:*:*:*:*:*:*:*": {
+        "CVE-2022-35410": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-22"
+            ]
+        }
+    },
+    "cpe:2.3:a:0xacab:mat2:0.13.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1000guess:1000_guess:-:*:*:*:*:*:*:*": {
+        "CVE-2018-12454": {
+            "cvssVersion": "3.0",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-338"
+            ]
+        }
+    },
+    "cpe:2.3:a:100296:qdbcrm:1.1.0:*:*:*:*:*:*:*": {
+        "CVE-2024-0880": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-352"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:locations_and_areas:-:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.0.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.0.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.0.3:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.1.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.2.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.2.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.3.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.3:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.4:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.5:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.4.6:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.3:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.4:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.5:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.5.6:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.3:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.4:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.5:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.6:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.7:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.8:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.6.9:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.7.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.7.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:locations_and_areas:1.7.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:open_user_map:-:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.0.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.1.10:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.10:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.11:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.12:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.13:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.14:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.15:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.16:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.17:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.18:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.19:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.20:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.21:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.22:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.23:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.24:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.25:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.2.26:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.12:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.13:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.14:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.15:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.16:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.17:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.18:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.19:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.20:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.21:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.22:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.23:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.24:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.25:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.26:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-45056": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.8,
+            "cwes": [
+                "CWE-79",
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:100plugins:open_user_map:1.3.27:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:open_user_map:1.3.28:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plugins:open_user_map:1.3.29:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:100plus:101eip:200925:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.1.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.2.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.3.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.3.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.3.2:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.3.3:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.3.4:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.4.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.4.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.4.2:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.5.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.6.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.7.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.7.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.7.2:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.7.3:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.8.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.8.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.8.2:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.9.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.10.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.11.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.11.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.12.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.13.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.14.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.14.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.15.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.16.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.16.1:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.17.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.18.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:0.19.0:*:*:*:*:node.js:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:101_project:101:1.0.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.1.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.1.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.2.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.3.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.3.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.4.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.5.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.6.0:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.6.1:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.6.2:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:101_project:101:1.6.3:*:*:*:*:node.js:*:*": {
+        "CVE-2021-25943": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-1321"
+            ]
+        }
+    },
+    "cpe:2.3:a:1024cms:1024_cms:0.7:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1024cms:1024_cms:1.2.5:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1024cms:1024_cms:1.3.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1024cms:1024_cms:1.4.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1024cms:1024_cms:1.4.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1024cms:1024_cms:1.4.2:beta:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:1024cms:1024_cms:2.1.1:*:*:*:*:*:*:*": {
+        "CVE-2010-1093": {
+            "cvssVersion": "2.0",
+            "baseScore": 6.8,
+            "cwes": [
+                "CWE-89"
+            ]
+        }
+    },
+    "cpe:2.3:a:1024tools:1024tools:1.0:*:*:*:*:*:*:*": {
+        "CVE-2019-9736": {
+            "cvssVersion": "3.0",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10n:borgchat:0.4.5:build150:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.5.2:build164:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.5.2:build167:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.6.0:build210:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.7.2:build245:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.7.3:build250:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.8:build369:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build388:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build390:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build422:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build428:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build431:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build434:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:0.9.9:build435:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10n:borgchat:1.0.0:build438:*:*:*:*:*:*": {
+        "CVE-2024-0888": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-404"
+            ]
+        }
+    },
+    "cpe:2.3:a:10quality:post_gallery:2.3.12:*:*:*:*:*:*:*": {
+        "CVE-2023-45752": {
+            "cvssVersion": "3.1",
+            "baseScore": 8.8,
+            "cwes": [
+                "CWE-352"
+            ]
+        }
+    },
+    "cpe:2.3:a:10-strike:free_photo_viewer:1.3:*:*:*:*:*:*:*": {
+        "CVE-2019-19468": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.8,
+            "cwes": [
+                "CWE-434"
+            ]
+        }
+    },
+    "cpe:2.3:a:10-strike:network_inventory_explorer:-:*:*:*:*:*:*:*": {
+        "CVE-2022-38573": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-120"
+            ]
+        }
+    },
+    "cpe:2.3:a:10-strike:network_inventory_explorer:9.3:*:*:*:*:*:*:*": {
+        "CVE-2022-38573": {
+            "cvssVersion": "3.1",
+            "baseScore": 9.8,
+            "cwes": [
+                "CWE-120"
+            ]
+        }
+    },
+    "cpe:2.3:a:10-strike:network_monitor:1.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.3:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.4:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.5:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.6:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.7:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.8:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:1.21:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.3:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.4:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.5:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:2.6:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:3.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:3.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:3.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.3:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.4:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.5:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:4.6:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:5.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:5.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:5.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:5.3:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:5.4:*:*:*:*:*:*:*": {
+        "CVE-2018-6016": {
+            "cvssVersion": "3.0",
+            "baseScore": 7.8,
+            "cwes": [
+                "CWE-428"
+            ]
+        }
+    },
+    "cpe:2.3:a:10-strike:network_monitor:5.5:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:6.0:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:6.1:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10-strike:network_monitor:6.2:*:*:*:*:*:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10to8:sign_in_scheduling_online_appointment_booking_system:1.0.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-49173": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.4,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:-:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.5.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.6.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.6.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:1.9.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.1.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.3.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.4.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.4.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.5.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.5.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.6.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.8.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:2.8.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.0.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.0.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.1.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.1.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.1.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.2.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.4.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.4.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.4.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.5.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.5.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.5.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2021-4405": {
+            "cvssVersion": "3.1",
+            "baseScore": 4.3,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10up:elasticpress:3.5.4:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.5.5:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.5.6:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.3:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.4:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.5:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:3.6.6:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.0.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.0.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.1.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.2.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.2.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.2.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.3.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.3.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.4.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.4.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.5.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.5.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.5.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:elasticpress:4.6.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:restricted_site_access:1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:1.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:1.0.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:2.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:3.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:3.1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:3.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:3.2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:4.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:5.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:5.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:5.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:6.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:6.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:6.0.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:6.1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:6.2.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:6.2.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.0.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.2.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.3.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1613": {
+            "cvssVersion": "3.1",
+            "baseScore": 5.3,
+            "cwes": [
+                "CWE-639",
+                "CWE-639"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:restricted_site_access:7.3.2:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:safe_svg:-:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.0.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.2.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.3.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.3.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.3.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.3.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.3.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.4.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.4.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.4.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.4.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.4.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.4.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.5.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.5.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.5.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.5.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.6.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.6.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.7.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.7.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.8.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.8.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2019-18854": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "CWE-674"
+            ]
+        },
+        "CVE-2019-18855": {
+            "cvssVersion": "3.1",
+            "baseScore": 7.5,
+            "cwes": [
+                "NVD-CWE-noinfo"
+            ]
+        },
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2022-1091": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": [
+                "CWE-79"
+            ]
+        }
+    },
+    "cpe:2.3:a:10up:safe_svg:1.9.10:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:safe_svg:2.0.0:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10up:safe_svg:2.0.1:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10web:10web_booster:2.24.18:*:*:*:*:wordpress:*:*": "No vulnerabilities returned",
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.10:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.11:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.12:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.13:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.14:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.15:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.16:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.17:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.18:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.19:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.21:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.22:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.23:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.24:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.25:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.26:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.27:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.28:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.29:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.30:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.31:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.32:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.33:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.34:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.35:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.36:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.37:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.0.38:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.0:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.1:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.2:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.3:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.4:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.5:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.6:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.7:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.8:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.9:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.10:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.11:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.13:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.14:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.15:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.16:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.17:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.18:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.19:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.20:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.21:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    },
+    "cpe:2.3:a:10web:10web_social_post_feed:1.1.22:*:*:*:*:wordpress:*:*": {
+        "CVE-2023-2503": {
+            "cvssVersion": "3.1",
+            "baseScore": 6.1,
+            "cwes": []
+        }
+    }
+}
